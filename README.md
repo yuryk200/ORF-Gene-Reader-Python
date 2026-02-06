@@ -16,7 +16,7 @@
 <pre><code class="language-bash">python readORF.py</code></pre>
 
 <p>Then select the FASTA file</p>
-<img src="ORFGeneReader/fasta.PNG" alt="fasta file">
+<img src="ORFGeneReader/fasta.PNG" alt="fasta file" width="300">
 <p>The program reads the a FASTA file and extracts</p>
 <ul>
   <li>Description/header line</li>
@@ -58,7 +58,7 @@
   <li>Frame 2: The compliment sequence 3' to 5' starting at index 1</li>
   <li>Frame 3: The reverse compliment 5' to 3' starting at index 2</li>
 </ul>
-<img src="ORFGeneReader/frames.PNG" alt="fasta file" width="300">
+<img src="ORFGeneReader/frames.PNG" width="500">
 
 
 
