@@ -25,3 +25,11 @@
 </ul>
 
 <h4>2. Complementary and Reverse Complenetary Strands</h4>
+<p>The complementary strand is generated using stabdard base pairing rules:</p>
+| Base | Complement |
+| ---- | ---------- |
+| A    | T          |
+| T    | A          |
+| C    | G          |
+| G    | C          |
+
