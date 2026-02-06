@@ -10,7 +10,7 @@
 </ol>
 <h4>How it Works</h4>
 <h5>1. FASTA Input</h5>
-```html
+
 <p>Run the script using:</p>
 
 <pre><code class="language-bash">python readORF.py</code></pre>
