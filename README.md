@@ -58,7 +58,7 @@
   <li>Frame 2: The compliment sequence 3' to 5' starting at index 1</li>
   <li>Frame 3: The reverse compliment 5' to 3' starting at index 2</li>
 </ul>
-<img src="ORFGeneReader/frames.PNG" width="500">
+<img src="ORFGeneReader/frames.PNG" width="700">
 
 
 
