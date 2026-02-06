@@ -69,10 +69,10 @@
 <h4>4. Translation</h4>
 <p>The script uses a codon table dictionary to map DNA triplets to amino acids.</p>
 <p>Example:</p>
-<p>ATG → M (Methionine)
-TGG → W (Tryptophan)
-TAA → * (Stop codon)
-</p>
+<p>ATG → M (Methionine)</p>
+<p>TGG → W (Tryptophan)</p>
+<p>TAA → * (Stop codon)</p>
+
 
 
 
