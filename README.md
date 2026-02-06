@@ -76,7 +76,16 @@
 <img src="ORFGeneReader/images/RF_Primary.PNG" width="700">
 <p>Reading Frame translation for Reverse Complimentary Strand Example:</p>
 <img src="ORFGeneReader/images/RF_Reverse.PNG" width="700">
-
+<h3>Implementation Details</h3>
+<h4>Libraries Used</h4>
+<ul>
+  <li>tkinter - file selection dialog for fasta input</li>
+  <li>sys - error handling and program control</li>
+  <li>Python standard library data structures for sequence parsing and codon translation</li>
+</ul>
+<h4>Performance</h4>
+<p>The program processess DNA sequences using linear iteration over the input sequence, resulting in the O(n) time complexity for both complenetary strand generation and codon translation.</p>
+<h4>Testing & Validation</h4>
 
 
 
