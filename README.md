@@ -59,6 +59,13 @@
   <li>Frame 3: The reverse compliment 5' to 3' starting at index 2</li>
 </ul>
 <img src="ORFGeneReader/frames.PNG" width="700">
+<p>Each frame produces a different grouping of codons.</p>
+<p>The program performs translations for:</p>
+<ul>
+  <li>RF1, RF2, RF3 (primary strand)</li>
+  <li>RF-1, RF-2, RF-3 (reverse complement</li>
+</ul>
+
 
 
 
