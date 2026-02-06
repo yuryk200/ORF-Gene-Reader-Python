@@ -19,6 +19,6 @@
 <img src="ORFGeneReader/fasta.PNG" alt="fasta file">
 <p>The program reads the a FASTA file and extracts</p>
 <ul>
-  <il>Description/header line</il>
-  <il>DNA sequence data</il>
+  <li>Description/header line</li>
+  <li>DNA sequence data</li>
 </ul>
